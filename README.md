@@ -46,11 +46,3 @@ The results of the clustering analysis are stored in the file **`clustering_resu
 2. **PCA Scatter Plots**: Visualize clusters in reduced dimensions.
 
 ---
-
-
-## Installation and Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/clustering-performance-analysis.git
-   cd clustering-performance-analysis
